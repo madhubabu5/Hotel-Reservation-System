@@ -7,10 +7,10 @@
   4. Viewing reservations. After booking a room, the app allows customers to view a list of all their reservations.
 
 # Admin Scenarios
-Displaying all customers accounts.
-Viewing all of the rooms in the hotel.
-Viewing all of the hotel reservations.
-Adding a room to the hotel application.
+  1. Displaying all customers accounts.
+  2. Viewing all of the rooms in the hotel.
+  3. Viewing all of the hotel reservations.
+  4. Adding a room to the hotel application.
 
 # Reserving a Room – Requirements
 The application allows customers to reserve a room. Here are the specifics:
